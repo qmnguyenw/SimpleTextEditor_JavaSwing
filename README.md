@@ -1,7 +1,7 @@
 # SimpleTextEditor_JavaSwing
  A simple text editor (like Notepad) using JavaSwing
 
-![image](https://user-images.githubusercontent.com/39472745/63143881-a61b4b00-c01a-11e9-826e-1ac0dd4c60d4.png)
+![image](https://user-images.githubusercontent.com/39472745/63143992-1d50df00-c01b-11e9-8c13-74eb9099b4a4.png)
 
-File menu (New, Open, Save, Save as, Exit)
+File menu (New, Open, Save, Save as, Exit)<br>
 Edit menu (Select All, Copy, Cut, Paste, Undo, Redo, Find, Replace, Change font)
